@@ -1,0 +1,54 @@
+\سؤال{}
+
+میکروکنترلر \lr{AVR} دارای معماری \lr{RISC} \footnote{\lr{Reduced Instruction Set Architecture}} می‌باشد. در هر کلاک می‌توانند یک دستور ساده انجام دهند؛ مانند انتقال عدد از حافظه به رجیستر. این میکروکنترلرها معمولا ۸ بیتی هستند. از آن‌ها برای انجام کارهای کنترلی استفاده می‌شود. به بیان دیگر در جاهایی که نیاز به محاسبات پردازشی وجود ندارد، از آن‌ها استفاده می‌شود؛
+مانند کنترل روشنایی
+
+میکروکنترلر \lr{ARM} دارای معماری \lr{RISC} می‌باشد. این میکروکنترلرها معمولا ۳۲ بیتی هستند. به دلیل توانایی بالا در اجرای سیستم‌عامل‌های مختلف مانند لینوکس، دارای کاربرد وسیعی در حوزه‌های مختلف می‌باشند؛ مانند:
+\begin{itemize}
+	\item تبلت
+	\item دوربین‌های دیجیتال
+	\item تلفن‌های همراه
+	\item و...
+\end{itemize}
+
+میکروکنترلر ۸۰۵۱، ۸ بیتی است. دارای فضای \lr{stack} بسیار محدود ۱۲۸ بایتی است که حتی نوشتن یک کامپایلر برای زبان \lr{C} را در آن‌ها با چالش روبه‌رو می‌کند. به ازای هر \lr{instruction} به چندین \lr{clock} نیاز دارد و توسط شرکت \lr{Intel} طراحی شده است.
+
+\begin{itemize}
+	\item \textbf{\lr{Bus width}}
+	\begin{itemize}
+		\item \lr{8051}:  ۸ بیتی
+		\item \lr{AVR}: ۸ / ۳۲ بیتی
+		\item \lr{ARM}: اغلب ۳۲ بیتی است اما ۶۴ بیتی هم دارد.
+	\end{itemize}
+
+	\item \textbf{سرعت}
+	\begin{itemize}
+		\item \lr{8051}: 
+		$12 \: clock / instruction \: cycle$
+		\item \lr{AVR}:
+		$1\:clock / instruction\:cycle$
+		\item \lr{ARM}:
+		$1\:clock / instruction\:cycle$
+	\end{itemize}
+
+	\item \textbf{\lr{ISA}}
+	\begin{itemize}
+		\item \lr{8051}: \lr{CLSC}
+		\item \lr{AVR}: \lr{RISC} 
+		\item \lr{ARM}: \lr{RISC}
+	\end{itemize}
+	
+	\item \textbf{مصرف انرژی}
+	\begin{itemize}
+		\item \lr{8051}: متوسط
+		\item \lr{AVR}: کم
+		\item \lr{ARM}: کم
+	\end{itemize}
+
+	\item \textbf{\lr{Memory Architecture}}
+	\begin{itemize}
+		\item \lr{8051}: \lr{Von Neumann}
+		\item \lr{AVR}: \lr{Modified}
+		\item \lr{ARM}: \lr{Modified Harvard Architecture}
+	\end{itemize}
+\end{itemize}
