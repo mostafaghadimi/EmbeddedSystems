@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.7.1)  28 OCT 2020 19:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.7.1)  31 OCT 2020 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1579,51 +1579,65 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
 [1
 
-] (./2.tex) [2] (./3.tex
+] (./2.tex
 LaTeX Font Info:    Font shape `U/MdSymbolA/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolA/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
+(Font)              scaled to size 8.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolA/m/n' will be
-(Font)              scaled to size 6.0pt on input line 4.
+(Font)              scaled to size 6.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolE/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolE/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
+(Font)              scaled to size 8.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolE/m/n' will be
-(Font)              scaled to size 6.0pt on input line 4.
+(Font)              scaled to size 6.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolB/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolB/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
+(Font)              scaled to size 8.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolB/m/n' will be
-(Font)              scaled to size 6.0pt on input line 4.
+(Font)              scaled to size 6.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolC/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolC/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
+(Font)              scaled to size 8.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolC/m/n' will be
-(Font)              scaled to size 6.0pt on input line 4.
+(Font)              scaled to size 6.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolD/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolD/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
+(Font)              scaled to size 8.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolD/m/n' will be
-(Font)              scaled to size 6.0pt on input line 4.
+(Font)              scaled to size 6.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
+(Font)              scaled to size 8.0pt on input line 6.
 LaTeX Font Info:    Font shape `U/MdSymbolF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 4.
+(Font)              scaled to size 6.0pt on input line 6.
 
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 6.
+
+LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
+(Font)              scaled to size 15.7679pt on input line 10.
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 33.
+
+File: img/a.jpeg Graphic file (type bmp)
+<img/a.jpeg>
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 39.
+
+[2]) [3] (./3.tex
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 4.
 
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 6.
 
-) [3] (./4.tex
+) [4] (./4.tex
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 9.
 
@@ -1651,7 +1665,7 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 20.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 21.
 
-) [4] (./5.tex
+) [5] (./5.tex
 LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
 (Font)              scaled to size 10.79997pt on input line 3.
 LaTeX Font Info:    Font shape `U/MdSymbolA/m/n' will be
@@ -1708,15 +1722,13 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 41.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 48.
 
-) [5] (./6.tex
+) [6] (./6.tex
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 5.
 
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 15.
 
-LaTeX Font Info:    Font shape `TU/XBZar(0)/m/n' will be
-(Font)              scaled to size 15.7679pt on input line 22.
 
 Overfull \hbox (0.98552pt too wide) in paragraph at lines 24--25
 [][]\TU/XBZar(0)/bx/n/10.95 در جایی که توسعه مهم است، کد []\TU/lmroman10-regula
@@ -1724,13 +1736,13 @@ r(0)/m/n/10.95 kernel[] \TU/XBZar(0)/bx/n/10.95 سیستم‌عامل‌های �
 حی شده‌اند تا مقیاس‌پذیر[]
  []
 
-[6]
+[7]
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 46.
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
- [7]
+ [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
  (./hw1.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 36.
@@ -1741,12 +1753,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27423 strings out of 493007
- 493383 string characters out of 6136720
+ 27431 strings out of 493007
+ 493457 string characters out of 6136720
  647781 words of memory out of 5000000
- 31029 multiletter control sequences out of 15000+600000
+ 31034 multiletter control sequences out of 15000+600000
  551700 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  53i,8n,74p,10443b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hw1.pdf (7 pages).
+Output written on hw1.pdf (8 pages).
